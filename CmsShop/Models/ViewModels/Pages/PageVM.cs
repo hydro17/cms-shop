@@ -5,7 +5,8 @@ namespace CmsShop.Models.ViewModels.Pages
 {
   public class PageVM
   {
-    public PageVM() { }
+    public PageVM()
+    { }
 
     public PageVM(PageDTO row)
     {
